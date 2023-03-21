@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pulawat Boonsiri</h1>
 <h3 align="center">Web Developer from Thailand</h3>
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611d60bdff1133bfbda64e0c6d4dd88204a9144fb0c&rid=giphy.gif&ct=g">
 
 - 📫 How to reach me **pulawat741@hotmail.com**
 
